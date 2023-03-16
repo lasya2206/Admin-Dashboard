@@ -196,7 +196,7 @@ span {
     align-items: center;
     width: 100%;
 }
-.RPJ {
+.RecentlyPostedJobs {
     font-family: 'Manrope';
     font-style: normal;
     font-weight: 500;
@@ -216,7 +216,7 @@ span {
     font-size: 12px;
     line-height: 16px;
 }
-.VFA {
+.ViewAllParagraph {
     font-family: 'Manrope';
     font-style: normal;
     font-weight: 500;
